@@ -1,0 +1,23 @@
+/* Base Colors */
+$color-secondary-high : #4ea802;
+$color-secondary-medium : #6de605;
+$color-secondary-low : #b8e986;
+
+/* Texts */
+$text-dark-high: rgba(0, 0, 0, 0.80);
+$text-dark-medium: rgba(0, 0, 0, 0.60);
+$text-dark-low: rgba(0, 0, 0, 0.44);
+
+$text-white-high: #FFFFFF;
+$text-white-medium: rgba($color: #FFFFFF, $alpha: 0.8);
+$text-white-low: rgba($color: #FFFFFF, $alpha: 0.6);
+
+/* Backgrounds */
+$surface-snow: #FFFFFF;
+$surface-palegray: #F7F7F7;
+$surface-lightgray: #ECECEC;
+$surface-silver: #D8D8D8;
+
+
+/* Others configs */
+$shadow-dark: 0 1px 8px 0 rgba(0, 0, 0, 0.04);
